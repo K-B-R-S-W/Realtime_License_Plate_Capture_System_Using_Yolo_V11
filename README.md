@@ -40,7 +40,7 @@
 ```bash
 # Clone the repository
 git clone https://github.com/K-B-R-S-W/Realtime_Sri_Lankan_License_Plate_Capture_System_Using_Yolo_V11.git
-cd Realtime_License_Plate_Capture_System_Using_Yolo_V11
+cd Realtime_Sri_Lankan_License_Plate_Capture_System_Using_Yolo_V11
 
 # Install dependencies
 pip install -r requirements.txt
