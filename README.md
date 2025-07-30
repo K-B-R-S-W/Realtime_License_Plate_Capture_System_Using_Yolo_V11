@@ -39,7 +39,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/K-B-R-S-W/Realtime_License_Plate_Capture_System_Using_Yolo_V11.git
+git clone https://github.com/K-B-R-S-W/Realtime_Sri_Lankan_License_Plate_Capture_System_Using_Yolo_V11.git
 cd Realtime_License_Plate_Capture_System_Using_Yolo_V11
 
 # Install dependencies
@@ -169,7 +169,7 @@ To train with your own dataset:
 
 ```bash
 # Fork the repository
-git fork https://github.com/K-B-R-S-W/Realtime_License_Plate_Capture_System_Using_Yolo_V11.git
+git fork https://github.com/K-B-R-S-W/Realtime_Sri_Lankan_License_Plate_Capture_System_Using_Yolo_V11.git
 
 # Create a feature branch
 git checkout
@@ -213,9 +213,9 @@ copies or substantial portions of the Software.
 ## 📮 Support
 
 **📧 Email:** [k.b.ravindusankalpaac@gmail.com](mailto:k.b.ravindusankalpaac@gmail.com)  
-**🐞 Bug Reports:** [GitHub Issues](https://github.com/K-B-R-S-W/Realtime_License_Plate_Capture_System_Using_Yolo_V11/issues)  
-**📚 Documentation:** See the project [Wiki](https://github.com/K-B-R-S-W/Realtime_License_Plate_Capture_System_Using_Yolo_V11/wiki)  
-**💭 Discussions:** Join the [GitHub Discussions](https://github.com/K-B-R-S-W/Realtime_License_Plate_Capture_System_Using_Yolo_V11/discussions)
+**🐞 Bug Reports:** [GitHub Issues](https://github.com/K-B-R-S-W/Realtime_Sri_Lankan_License_Plate_Capture_System_Using_Yolo_V11/issues)  
+**📚 Documentation:** See the project [Wiki](https://github.com/K-B-R-S-W/Realtime_Sri_Lankan_License_Plate_Capture_System_Using_Yolo_V11/wiki)  
+**💭 Discussions:** Join the [GitHub Discussions](https://github.com/K-B-R-S-W/Realtime_Sri_Lankan_License_Plate_Capture_System_Using_Yolo_V11/discussions)
 
 ---
 
